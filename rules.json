@@ -1,0 +1,35 @@
+{
+  "username": "Strap RP Rules",
+  "embeds": [
+    {
+      "title": "📜 STRAP RP SERVER RULES",
+      "description": "Welcome to **Strap RP**! Please read and follow these rules to ensure a fun, fair, and realistic roleplay environment for everyone.",
+      "color": 15844367,
+      "fields": [
+        {
+          "name": "1. 🚫 RDM & VDM",
+          "value": "• **RDM (Random Deathmatch):** Attacking or killing players without a valid roleplay reason and initiation.\n• **VDM (Vehicle Deathmatch):** Using any vehicle as a weapon to run over players or ram other cars."
+        },
+        {
+          "name": "2. 🧠 Metagaming & Powergaming",
+          "value": "• **Metagaming:** Using out-of-character (OOC) info (like stream snipes, Discord chat) in-character.\n• **Powergaming:** Performing physical actions that are impossible, or forcing roleplay on others without giving them a chance to react."
+        },
+        {
+          "name": "3. 🎭 FailRP & NLR (New Life Rule)",
+          "value": "• **FailRP:** Unrealistic actions (e.g. driving sports cars up mountains, not valuing your life when held at gunpoint).\n• **NLR:** If you die, you forget all events leading to your death and cannot return to that area for 15 minutes."
+        },
+        {
+          "name": "4. 🚔 Cop Baiting",
+          "value": "• Do not intentionally provoke police officers (e.g., drifting in front of them, running red lights repeatedly) just to start a chase."
+        },
+        {
+          "name": "5. 🤝 Respect & Community",
+          "value": "• Toxic behavior, hate speech, or harassment OOC is strictly bannable. Keep it in-character, respect fellow players, and enjoy the RP!"
+        }
+      ],
+      "footer": {
+        "text": "Strap RP Administration Team"
+      }
+    }
+  ]
+}
