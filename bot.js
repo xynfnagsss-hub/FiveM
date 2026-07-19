@@ -260,7 +260,7 @@ client.login(process.env.DISCORD_TOKEN);
 
 // HTTP log listener server
 const LOG_CHANNEL_ID = '1525902939313668225';
-const HTTP_PORT = 30125;
+const HTTP_PORT = process.env.PORT || 30125;
 
 const logServer = http.createServer((req, res) => {
     if (req.method === 'POST' && req.url === '/log') {
